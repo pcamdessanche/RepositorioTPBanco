@@ -3,7 +3,7 @@ class Recursividad {
 	
 	
 
-		public int sumaDeLosPrimerosNumeros(int n){    // ejercicio 2
+		public int sumaDeLosPrimerosNumeros(int n){    // FAFAFAAA!!
 			
 			
 			if(n==0){
